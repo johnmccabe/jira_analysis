@@ -1,0 +1,6 @@
+.bundle
+config.yml
+*.log
+.vscode
+Gemfile.lock
+output
